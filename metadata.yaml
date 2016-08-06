@@ -1,0 +1,28 @@
+_repo: Principal-Cairns_11113
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cairns, John
+    birthdate: 1857
+    deathdate: 1922
+    gutenberg_agent_id: '3846'
+    url: http://www.gutenberg.org/2009/agents/3846
+    wikipedia: http://en.wikipedia.org/wiki/John_Cairns_%28Presbyterian%29
+description: Famous Scots Series, 40
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- Scotland -- Biography'
+- !lcc 'BX'
+- !lcsh 'Presbyterian Church -- Clergy -- Biography'
+- !lcsh 'Cairns, John, 1818-1892'
+- GITenberg
+title: Principal Cairns
+url: http://www.gutenberg.org/ebooks/11113
